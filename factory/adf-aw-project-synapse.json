@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-synapse",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bd1c07f-1ff7-44be-84f6-2c7a3b307775",
+		"tenantId": "61086fdd-27b6-4a32-92da-d4923cc54586"
+	}
+}
